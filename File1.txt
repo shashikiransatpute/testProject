@@ -1,6 +1,2 @@
 
-This is the file one for commit. 
-
-Hello World
-
-This is for second commit.
+File content changed
